@@ -1,0 +1,53 @@
+XPath
+1. //a[text()='Home']
+2. //button[text()='About']
+3. //button[text()='Contacts']
+4. //button[text()='Guest log in']
+5. //button[text()='Sign In']
+6. //h1[text()='Do more!']
+7. //p[text()='With the help of the Hillel auto project, you will have the opportunity to get hands-on experience in manual testing.']
+8. //button[text()='Sign up']
+9. //span[text()='Як потрапити у майбутнє? Трансформація навчання.']
+10. //p[text()='Log fuel expenses']
+11. //a[@class='header_logo'] 
+12. //a[@class='btn header-link -active']
+13. //button[@class='btn header-link']
+14. //button[@class='header-link -guest']
+15. //button[@class='btn btn-outline-white header_signin']
+16. //h1[@class='hero-descriptor_title display-2']
+17. //button[@class='hero-descriptor_btn btn btn-primary']
+18. //iframe[@class='hero-video_frame']
+19. //img[@class='about-picture_img']
+20. //span[@class='socials_icon icon icon-youtube']
+21. //nav[@class='header_nav d-flex align-items-center']//a[@class='btn header-link -active']
+22. //nav[@class='header_nav d-flex align-items-center']//button[text()='About']
+23. //div[@class='header_right d-flex align-items-center']//button[text()='Sign In']
+24. //a[@class='ytmVideoInfoVideoTitle']//span[text()='Як потрапити у майбутнє? Трансформація навчання.']
+25. //div[@class='contacts_socials socials']//a[@class='socials_link']//span[@class='socials_icon icon icon-telegram']
+
+CSS
+1. a.btn.header-link.-active
+2. #js-1124342058
+3. .hero-video_frame
+4. .about-picture_img
+5. .about-block_descr.lead
+6. div.header_right.d-flex.align-items-center
+7. #global-loader
+8. #player
+9. div#bottom-sheet-wrapper
+10. h2
+11. a.contacts_link.display-4
+12. div.col footer_item.-right
+13. .footer_logo
+14. .socials_icon.icon.icon-linkedin
+15. span.socials_icon.icon.icon-facebook
+16. h1.hero-descriptor_title.display-2
+17. section.section.hero
+18. .header_inner.d-flex.justify-content-between.align-items-center
+19. .ytAttributedStringHost.ytmVideoInfoLink.ytAttributedStringEllipsisTruncate
+20. p.about-block_descr.lead
+21. div.row.d-flex.flex-column.flex-md-row.align-items-center
+22. #aboutSection
+23. img.ytCoreImageHost.ytmVideoInfoChannelLogo.ytCoreImageFillParentHeight.ytCoreImageFillParentWidth.ytCoreImageContentModeScaleAspectFill.ytCoreImageLoaded
+24. .col-12.col-lg-4
+25. a.contacts_link.h4
